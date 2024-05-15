@@ -8,7 +8,7 @@
 - 夏時間を自動調整
 - うるう年を考慮
 - デザインのカスタマイズが可能
-- 
+  
 ![20240515_160517-ezgif com-video-to-gif-converter](https://github.com/Fuhii/alpha/assets/147135399/8897662c-c45b-4421-98bb-8d05aec0811b)
 
   
